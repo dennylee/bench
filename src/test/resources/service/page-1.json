@@ -1,0 +1,15 @@
+{
+  "totalCount": 3,
+  "page": 1,
+  "transactions": [{
+    "Date": "2000-01-01",
+    "Ledger": "Ledger X",
+    "Amount": "-100.55",
+    "Company": "Company A"
+  }, {
+    "Date": "2013-10-10",
+    "Ledger": "Ledger Y",
+    "Amount": "-10.5",
+    "Company": "Company B"
+  }]
+}
